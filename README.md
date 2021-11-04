@@ -1,1 +1,6 @@
 # IPTV-Playlist-1
+#EXTM3U
+#EXTINF:-1 ,Gazi tv
+http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 ,D sports
+
